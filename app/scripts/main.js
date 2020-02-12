@@ -36,7 +36,7 @@ function urlB64ToUint8Array(base64String) {
   return outputArray;
 }
 
-const applicationServerPublicKey = 'BHI3mV25MQU1lLNAtvEj0OwV9NTqtGHII5l6dtHKYF0WHruuP_5HUfNyhz8OLCOIPoIALGOqoHEG8STtZaNDpAo';
+const applicationServerPublicKey = 'BIS478AUIsH6vMAd9EHJ9fmfQclibY5FnA8BLNZ7sjQcPDXmhpn5bR-m9YlIuTqeSPFUUjcqbFTcRDifNCQJ-8c';
 
 const pushButton = document.querySelector('.js-push-btn');
 
